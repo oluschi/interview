@@ -1,0 +1,70 @@
+h1{
+	color: black;
+	font-size: 60px;
+	
+}
+
+h3{
+	color: blue;
+	font-size: 30px;
+	padding-left: 100px;
+
+}
+
+body {
+  background-color: white;
+}
+
+img{ 
+	padding-left: 500px; 
+	padding-bottom:50px;
+}
+
+.question-container2 {
+  color: black;
+  margin: 2px;
+  padding: 1px;
+  font-feature-settings: initial;
+  font-size: 24px;
+}
+span {
+	font-family: serif;
+	text-shadow: 10px;
+	padding-bottom: 30px;
+}
+.question2{
+	color: black;
+	line-height:1.5;
+	padding-top:15px;
+}
+.answer2{
+	color: blue;
+	padding-left:10px;
+	padding-bottom:30px;
+	text-align: right; 
+	font-kerning:none;
+}
+.name1{
+	color: black;
+	font-family: Georgia, serif ;
+	font-stretch: semi-expanded;
+    font-variant: : "normal", "two";
+
+
+}
+
+.name2{
+	color: blue;
+	font-family:Georgia, serif ;
+	font-variant: : "normal", "two";
+
+}
+
+
+
+
+
+
+
+
+
